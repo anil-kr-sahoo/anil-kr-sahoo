@@ -1,4 +1,3 @@
-![logo](https://github.com/anil-kr-sahoo/anil-kr-sahoo/blob/main/iPhone%2013%20%26%2014%20-%201%20(1).png)
 <h1 align="center">Hi 👋, I'm Anil Kr Sahoo</h1>
 <h3 align="center">A passionate Software Engineer from Odisha/India</h3>
 <img align="right" alt="coding" width="400" src="https://i.pinimg.com/originals/e0/0c/47/e00c47431702e4b6e423d5742a0bec1a.gif">
